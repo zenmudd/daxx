@@ -1,0 +1,59 @@
+h2{
+    margin:0px 0px 0px 0px;    
+}
+
+.main_container{
+    height: 339px;
+    background: yellow;
+
+}
+.left_text{
+    float: left;
+    width:50%;
+}
+.right_cats{
+    float: right;
+    width: 50%;
+    height:320px;
+    
+    
+}
+.content_left{
+    max-height:308px;
+    background: blue;
+    margin-top: 6px;
+    margin-left:6px;
+    margin-right: 3px;
+    background: blue;
+    
+    overflow: hidden;
+}
+.content_right{
+    height:308px;
+    margin-top: 6px;
+    margin-right:6px;
+    margin-left: 3px;
+    background: red;
+}
+.cats_rendomizer{
+    float: left;
+    width:50%;
+}
+.array_console{
+    float: right;
+    width: 50%;
+}
+.array_console_container{
+    float:right;
+    margin-right: 6px;
+}
+.cats_rendomizer_container{
+    margin-left: 6px;
+}
+.content_left_container{
+    margin-left: 6px;
+    margin-right: 6px;
+}
+.right_cats_container{
+    margin: 6px;
+}
