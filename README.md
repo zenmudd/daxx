@@ -1,15 +1,16 @@
-welcome here
+so let us remember main commands from here:
 
-push and pull is done
+git init 
 
-and again
+git checkout master
 
-and again
+git add 'filename.ext' / .
 
-about to delete everything!
+git remote add origin https://github.com/zenmudd/daxx
 
-deleted so much!
+git pull origin master
 
-again
+git commit -a -m "some commit here for all files"
 
-Lets try now
+git status
+
